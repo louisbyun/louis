@@ -3,8 +3,8 @@ Systems Engineer | Software Application & Full Stack Support<br>
 Austin, TX, USA<br>
 +1-512-293-8721<br>
 louispien@gmail.com<br>
-LinkedIn: <a href="https://www.linkedin.com/in/louis-byun/">linkedin.com/in/louis-byun</a><br>
-GitHub: github.com/louisbyun<br>
+LinkedIn: <a href="https://www.linkedin.com/in/louis-byun/" target="_blank">linkedin.com/in/louis-byun</a><br>
+GitHub: <a href="https://github.com/louisbyun" target="_blank">github.com/louisbyun</a><br>
 ________________________________________
 <strong>PROFESSIONAL SUMMARY</strong><br>
 Systems Engineer with extensive experience supporting production software systems across manufacturing, semiconductor, and enterprise environments. Strong background in frontend and backend application development, Linux/Windows system operations, data collection and monitoring, and issue troubleshooting. Proven ability to support live production systems, analyze system behavior through logs and operational data, and collaborate with cross-functional teams to maintain stability, reliability, and operational continuity.
