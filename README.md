@@ -3,7 +3,7 @@ Systems Engineer | Software Application & Full Stack Support<br>
 Austin, TX, USA<br>
 +1-512-293-8721<br>
 louispien@gmail.com<br>
-LinkedIn: linkedin.com/in/louis-byun<br>
+LinkedIn: <a href="https://www.linkedin.com/in/louis-byun/">linkedin.com/in/louis-byun</a><br>
 GitHub: github.com/louisbyun<br>
 ________________________________________
 <strong>PROFESSIONAL SUMMARY</strong><br>
