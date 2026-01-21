@@ -40,7 +40,7 @@ ________________________________________
 Orange Digit Inc. — Seoul, South Korea<br>
 Sep 2012 – Feb 2024<br>
 ●	Designed and maintained backend platforms for enterprise LMS and CMS systems, supporting multiple organizations and large multi-user environments.<br>
-●	Developed and deployed backend services using Python (Flask) and Docker in Linux-based environments.<br>
+●	Developed and deployed frontend and backend services using Python (Flask) and Docker in Linux-based environments.<br>
 ●	Built Python-based systems for data acquisition, processing, and visualization, using relational databases for reporting and analysis.<br>
 ●	Administered Linux servers hosting application services, Git repositories, and project management tools (Jira, Redmine).<br>
 ●	Investigated system and application issues through log analysis and operational data review, identifying root causes and implementing corrective actions.<br>
