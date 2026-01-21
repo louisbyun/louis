@@ -1,5 +1,5 @@
 <strong>Louis (Kyuesup) Byun</strong><br>
-Systems Engineer | Software Application Support & Backend Systems<br>
+Systems Engineer | Software Application & Full Stack Support<br>
 Austin, TX, USA<br>
 +1-512-293-8721<br>
 louispien@gmail.com<br>
@@ -7,10 +7,10 @@ LinkedIn: linkedin.com/in/louis-byun<br>
 GitHub: github.com/louisbyun<br>
 ________________________________________
 <strong>PROFESSIONAL SUMMARY</strong><br>
-Systems Engineer with extensive experience supporting production software systems across manufacturing, semiconductor, and enterprise environments. Strong background in backend application development, Linux/Windows system operations, data collection and monitoring, and issue troubleshooting. Proven ability to support live production systems, analyze system behavior through logs and operational data, and collaborate with cross-functional teams to maintain stability, reliability, and operational continuity.
+Systems Engineer with extensive experience supporting production software systems across manufacturing, semiconductor, and enterprise environments. Strong background in frontend and backend application development, Linux/Windows system operations, data collection and monitoring, and issue troubleshooting. Proven ability to support live production systems, analyze system behavior through logs and operational data, and collaborate with cross-functional teams to maintain stability, reliability, and operational continuity.
 ________________________________________
 <strong>CORE SKILLS</strong><br>
-●	Backend Application Development (Python, Flask, FastAPI)<br>
+●	Frontend & Backend Application Development (Python, Flask, FastAPI)<br>
 ●	Automation & Scripting (PowerShell, Python), Windows UI Automation, Docker<br>
 ●	Software Application & Production Support<br>
 ●	Data Collection, Processing & Analysis<br>
