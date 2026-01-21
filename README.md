@@ -1,4 +1,4 @@
-Louis (Kyuesup) Byun<br>
+<strong>Louis (Kyuesup) Byun</strong><br>
 Systems Engineer | Software Application Support & Backend Systems<br>
 Austin, TX, USA<br>
 +1-512-293-8721<br>
