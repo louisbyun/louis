@@ -6,10 +6,10 @@ louispien@gmail.com<br>
 LinkedIn: linkedin.com/in/louis-byun<br>
 GitHub: github.com/louisbyun<br>
 ________________________________________
-PROFESSIONAL SUMMARY<br>
+<strong>PROFESSIONAL SUMMARY<br>
 Systems Engineer with extensive experience supporting production software systems across manufacturing, semiconductor, and enterprise environments. Strong background in backend application development, Linux/Windows system operations, data collection and monitoring, and issue troubleshooting. Proven ability to support live production systems, analyze system behavior through logs and operational data, and collaborate with cross-functional teams to maintain stability, reliability, and operational continuity.
 ________________________________________
-CORE SKILLS<br>
+<strong>CORE SKILLS<br>
 ●	Backend Application Development (Python, Flask, FastAPI)<br>
 ●	Automation & Scripting (PowerShell, Python), Windows UI Automation, Docker<br>
 ●	Software Application & Production Support<br>
@@ -23,8 +23,9 @@ CORE SKILLS<br>
 ●	SOP & Operational Documentation<br>
 ________________________________________
  
-PROFESSIONAL EXPERIENCE<br>
-Senior Software Engineer<br>
+<strong>PROFESSIONAL EXPERIENCE</strong><br>
+
+<strong>Senior Software Engineer</strong><br>
 Zinnotech — Austin, TX<br>
 (Dedicated to Samsung Austin Semiconductor)<br>
 Sep 2024 – Present<br>
@@ -35,7 +36,7 @@ Sep 2024 – Present<br>
 ●	Developed low-level Windows diagnostic and automation components to support reliable RPA execution under VDI and security constraints.<br>
 ●	Designed and implemented custom Splunk dashboards and searches to monitor RPA execution, system logs, and operational events, enabling faster failure detection and root-cause analysis.<br>
 ________________________________________
-Senior Software Engineer / System Administrator<br>
+<strong>Senior Software Engineer / System Administrator</strong><br>
 Orange Digit Inc. — Seoul, South Korea<br>
 Sep 2012 – Feb 2024<br>
 ●	Designed and maintained backend platforms for enterprise LMS and CMS systems, supporting multiple organizations and large multi-user environments.<br>
@@ -46,7 +47,7 @@ Sep 2012 – Feb 2024<br>
 ●	Created and maintained Standard Operating Procedures (SOPs) for deployment, maintenance, incident response, and system recovery.<br>
 ●	Supported long-running production systems with a focus on stability, access control, and operational consistency.<br>
 ________________________________________
-Technical Field Application Engineer<br>
+<strong>Technical Field Application Engineer</strong><br>
 ST-Ericsson — Seoul, South Korea<br>
 Dec 2007 – Mar 2012<br>
 ●	Provided technical support for customer wireless communication platforms, including 3G systems, supporting mobile products for Samsung Mobile and LG Electronics Mobile Division.<br>
@@ -54,7 +55,7 @@ Dec 2007 – Mar 2012<br>
 ●	Analyzed logs and system behavior to investigate customer-reported issues and assist with root-cause analysis.<br>
 ●	Worked closely with customer-facing software and hardware teams to support platform integration, validation, and field deployments.<br>
 ________________________________________
-Senior Embedded Software Engineer<br>
+<strong>Senior Embedded Software Engineer</strong><br>
 LG Electronics — Seoul, South Korea<br>
 Mar 2004 – Jul 2007<br>
 ●	Developed and tested embedded software for mobile devices and wireless modules.<br>
@@ -63,12 +64,12 @@ Mar 2004 – Jul 2007<br>
 ●	Collaborated with hardware and system engineers to resolve software-related production issues.<br>
 ●	Performed firmware testing and debugging for wireless-enabled devices (3G, Bluetooth).<br>
 ________________________________________
-EDUCATION<br>
+<strong>EDUCATION<br>
 M.S. in Computer Engineering — Ajou University<br>
 B.S. in Computer Science — Ajou University<br>
 Internationally Trained Professionals Program — Austin Community College<br>
 ________________________________________
-CERTIFICATIONS<br>
+<strong>CERTIFICATIONS</strong><br>
 ●	Automation Anywhere Master RPA Professional, Automation Anywhere (2025)<br>
 ●	Automation Essentials, Automation Anywhere  (2024)<br>
 ●	Advanced Automation, Automation Anywhere  (2024)<br>
