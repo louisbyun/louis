@@ -46,6 +46,7 @@ Sep 2012 – Feb 2024<br>
 ●	Investigated system and application issues through log analysis and operational data review, identifying root causes and implementing corrective actions.<br>
 ●	Created and maintained Standard Operating Procedures (SOPs) for deployment, maintenance, incident response, and system recovery.<br>
 ●	Supported long-running production systems with a focus on stability, access control, and operational consistency.<br>
+●	Hyundai Motors parts development outsourcing company artificial intelligence defective product extraction project.(Intel Edge AI, Ubuntu, ZeroMQ, Docker, Python, Pytorch)<br>
 ________________________________________
 <strong>Technical Field Application Engineer</strong><br>
 ST-Ericsson — Seoul, South Korea<br>
