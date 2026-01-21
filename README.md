@@ -64,7 +64,7 @@ Mar 2004 – Jul 2007<br>
 ●	Collaborated with hardware and system engineers to resolve software-related production issues.<br>
 ●	Performed firmware testing and debugging for wireless-enabled devices (3G, Bluetooth).<br>
 ________________________________________
-<strong>EDUCATION<br>
+<strong>EDUCATION</strong><br>
 M.S. in Computer Engineering — Ajou University<br>
 B.S. in Computer Science — Ajou University<br>
 Internationally Trained Professionals Program — Austin Community College<br>
