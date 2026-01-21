@@ -6,10 +6,10 @@ louispien@gmail.com
 LinkedIn: linkedin.com/in/louis-byun
 GitHub: github.com/louisbyun
 ________________________________________
-PROFESSIONAL SUMMARY
+PROFESSIONAL SUMMARY<br>
 Systems Engineer with extensive experience supporting production software systems across manufacturing, semiconductor, and enterprise environments. Strong background in backend application development, Linux/Windows system operations, data collection and monitoring, and issue troubleshooting. Proven ability to support live production systems, analyze system behavior through logs and operational data, and collaborate with cross-functional teams to maintain stability, reliability, and operational continuity.
 ________________________________________
-CORE SKILLS
+CORE SKILLS<br>
 ●	Backend Application Development (Python, Flask, FastAPI)
 ●	Automation & Scripting (PowerShell, Python), Windows UI Automation, Docker
 ●	Software Application & Production Support
@@ -23,7 +23,7 @@ CORE SKILLS
 ●	SOP & Operational Documentation
 ________________________________________
  
-PROFESSIONAL EXPERIENCE
+PROFESSIONAL EXPERIENCE<br>
 Senior Software Engineer
 Zinnotech — Austin, TX
 (Dedicated to Samsung Austin Semiconductor)
