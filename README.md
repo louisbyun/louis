@@ -6,10 +6,10 @@ louispien@gmail.com<br>
 LinkedIn: linkedin.com/in/louis-byun<br>
 GitHub: github.com/louisbyun<br>
 ________________________________________
-<strong>PROFESSIONAL SUMMARY<br>
+<strong>PROFESSIONAL SUMMARY</strong><br>
 Systems Engineer with extensive experience supporting production software systems across manufacturing, semiconductor, and enterprise environments. Strong background in backend application development, Linux/Windows system operations, data collection and monitoring, and issue troubleshooting. Proven ability to support live production systems, analyze system behavior through logs and operational data, and collaborate with cross-functional teams to maintain stability, reliability, and operational continuity.
 ________________________________________
-<strong>CORE SKILLS<br>
+<strong>CORE SKILLS</strong><br>
 ●	Backend Application Development (Python, Flask, FastAPI)<br>
 ●	Automation & Scripting (PowerShell, Python), Windows UI Automation, Docker<br>
 ●	Software Application & Production Support<br>
