@@ -126,7 +126,7 @@ _Distributed Systems, Mobile Computing, Embedded Systems_
 - Automation Anywhere **Master RPA Certification**
 - Automation Anywhere **Advanced Automation Certification**
 - Automation Anywhere **Business Analyst (Automation 360)**
-- Splunk Search Expert 101
+- **Splunk Search Expert 101**
 - **AWS DevOps Specialization**
 - **System Administration & IT Infrastructure Services**
 
