@@ -131,7 +131,7 @@ _Distributed Systems, Mobile Computing, Embedded Systems_
 
 ---
 
-## 📚 Publications & Patents
+## 📚 Publications
 
 - Bluetooth Low Energy Sensor Networks  
 - SLIMbus™ for Smart Devices  
