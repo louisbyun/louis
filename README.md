@@ -60,7 +60,7 @@ _Jan 2025 – Present_
 - Architected and operated **always-on software platforms** requiring continuous monitoring, fault handling, and recovery.
 - Designed modular backend systems using **Python (Flask)** with structured logging, health checks, and secure authentication.
 - Built **containerized Linux services** using Docker and Nginx pipelines.
-- Developed **data processing and analytics pipelines** for scientific and domain-specific datasets.
+- Developed **data processing and analytics pipelines** for scientific and domain-specific datasets(ai-Genex, OdorMind).
 - Implemented **role-based access control** and operational dashboards for real-time system visibility.
 
 **Tech Stack**:  
