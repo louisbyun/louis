@@ -33,7 +33,7 @@ My career spans wireless systems, automation platforms, and large-scale producti
 - Upgrade & lifecycle strategies
 
 ### Embedded & Low-Level Software
-- BLE, Wi-Fi, GPS
+- Bluetooth, Wi-Fi, GPS, Baseband
 - RTOS, firmware development
 - Hardware bring-up & debugging
 
