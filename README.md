@@ -8,6 +8,8 @@ Austin, TX, USA
 louispien@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/louis-byun)  
 [GitHub](https://github.com/louisbyun)
+## 📄 Resume
+- 👉 [Download Resume (PDF)](./Louis(Kyuesup)%20Byun%20Resume.pdf)
 
 ---
 
