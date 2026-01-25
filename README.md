@@ -123,8 +123,11 @@ _Distributed Systems, Mobile Computing, Embedded Systems_
 
 ## 📜 Certifications
 
-- **Automation Anywhere Master RPA Certification**
+- Automation Anywhere **Master RPA Certification**
+- Automation Anywhere **Advanced Automation Certification**
+- Automation Anywhere **Business Analyst (Automation 360)**
 - **AWS DevOps Specialization**
+- **System Administration & IT Infrastructure Services**
 
 ---
 
