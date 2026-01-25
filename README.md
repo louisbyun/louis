@@ -3,11 +3,11 @@
 **Senior Software Systems Engineer**  
 _Embedded Systems • Platform Software • Automation_
 
-📍 Austin, TX, USA  
-📞 +1-512-293-8721  
-✉️ louispien@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/louis-byun)  
-💻 [GitHub](https://github.com/louisbyun)
+Austin, TX, USA  
++1-512-293-8721  
+louispien@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/louis-byun)  
+[GitHub](https://github.com/louisbyun)
 
 ---
 
