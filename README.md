@@ -26,38 +26,12 @@ My career spans wireless systems, automation platforms, and large-scale producti
 
 ## 🧠 Core Technical Skills
 
-### Systems Engineering
-- Architecture design
-- Reliability & availability
-- Failure handling & recovery
-- Upgrade & lifecycle strategies
-
-### Embedded & Low-Level Software
-- Bluetooth, Wi-Fi, GPS, Baseband
-- RTOS, firmware development
-- Hardware bring-up & debugging
-
-### Platform & Backend Development
-- Python, Flask
-- REST APIs
-- PostgreSQL
-
-### Linux & Cloud Infrastructure
-- Docker
-- AWS
-- Nginx
-- Server administration (Linux)
-
-### Automation & Diagnostics
-- RPA (enterprise automation)
-- System instrumentation
-- Monitoring & alerting
-- MTTR reduction
-
-### Networking Fundamentals
-- Protocol behavior
-- Routing concepts
-- Distributed systems
+- **Systems Engineering**: Architecture, reliability, availability, failure handling
+- **Embedded Software**: BLE, Wi-Fi, GPS, RTOS, firmware, HW bring-up
+- **Backend & Platform**: Python, Flask, REST APIs, PostgreSQL
+- **Linux & Cloud**: Docker, AWS, Nginx, CI/CD, server administration
+- **Automation & Observability**: RPA, monitoring, diagnostics, MTTR reduction
+- **Networking**: Protocol behavior, routing concepts, distributed systems
 
 ---
 
