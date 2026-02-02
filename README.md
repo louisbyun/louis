@@ -15,7 +15,7 @@ louispien@gmail.com
 
 ## 👋 About Me
 
-Senior Software Systems Engineer with **20+ years of experience** designing, building, and operating **mission-critical software systems** across:
+Senior Software Systems Engineer with **10+ years of experience** designing, building, and operating **mission-critical software systems** across:
 
 - Embedded platforms  
 - Linux-based services  
