@@ -67,9 +67,9 @@ _Jan 2025 – Present_
 • Deployed Flowise (low-code AI orchestration tool, LangChain) to design and manage complex LLM chatflows.
 • Integrated Google Gemini API to create a responsive AI chatbot, optimizing for cost-effectiveness and performance.
 • Configured custom Node.js middleware to bridge user requests and the AI engine, ensuring seamless API communication.
-  - Built **containerized Linux services** using Docker and Nginx pipelines.
-  - Developed **data processing and analytics pipelines** for scientific and domain-specific datasets(ai-Genex, OdorMind).
-  - Implemented **role-based access control** and operational dashboards for real-time system visibility.
+- Built **containerized Linux services** using Docker and Nginx pipelines.
+- Developed **data processing and analytics pipelines** for scientific and domain-specific datasets(ai-Genex, OdorMind).
+- Implemented **role-based access control** and operational dashboards for real-time system visibility.
 
 **Tech Stack**:  
 `Python` `Flask` `PostgreSQL` `Docker` `Linux`
