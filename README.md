@@ -138,6 +138,7 @@ _Distributed Systems, Mobile Computing, Embedded Systems_
 - **Splunk Search Expert 101**
 - **AWS DevOps Specialization**
 - **System Administration & IT Infrastructure Services**
+- **Six Sigma Green Belt**
 
 ---
 
