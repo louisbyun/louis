@@ -30,7 +30,7 @@ My career spans wireless systems, automation platforms, and large-scale producti
 
 - **Systems Engineering**: Architecture, reliability, availability, failure handling
 - **Embedded Software**: BLE, Wi-Fi, GPS, RTOS, firmware, HW bring-up
-- **Backend & Platform**: Python, Flask, Vue.js, Node.js, REST APIs, PostgreSQL, Folwise, LLM, LangChain
+- **Backend & Platform**: Python, Flask, Vue.js, Node.js, REST APIs, PostgreSQL, Flowise, LLM, LangChain
 - **Linux & Cloud**: Docker, AWS, Nginx, CI/CD, server administration
 - **Automation & Observability**: RPA, monitoring, diagnostics, MTTR reduction
 - **Networking**: Protocol behavior, routing concepts, distributed systems
