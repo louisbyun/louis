@@ -62,6 +62,11 @@ _Jan 2025 – Present_
 
 - Architected and operated **always-on software platforms** requiring continuous monitoring, fault handling, and recovery.
 - Designed modular backend systems using **Python (Flask)** with structured logging, health checks, and secure authentication.
+- **LLM-based AI Agent Infrastructure Deployment**
+• Built and managed a cloud-based AI agent environment using AWS EC2 (Ubuntu).
+• Deployed Flowise (low-code AI orchestration tool, LangChain) to design and manage complex LLM chatflows.
+• Integrated Google Gemini API to create a responsive AI chatbot, optimizing for cost-effectiveness and performance.
+• Configured custom Node.js middleware to bridge user requests and the AI engine, ensuring seamless API communication.
 - Built **containerized Linux services** using Docker and Nginx pipelines.
 - Developed **data processing and analytics pipelines** for scientific and domain-specific datasets(ai-Genex, OdorMind).
 - Implemented **role-based access control** and operational dashboards for real-time system visibility.
