@@ -83,6 +83,7 @@ _Sep 2012 – Feb 2024_
 - Designed and validated **AI-based machine vision systems** for manufacturing partners using Python, Docker, and PyTorch.
 - Integrated **robotic control systems**, backend services, and messaging infrastructure (MQTT).
 - Managed cloud platforms and backend architectures supporting enterprise and public-sector customers.
+- Developed and deployed a Node.js/TypeScript backend for an Android mobile app, delivering RESTful APIs.
 - Led cross-functional teams of **10–20 engineers**, delivering **40+ production systems**.
 
 ---
