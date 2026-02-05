@@ -57,22 +57,42 @@ _Sep 2024 – Present_
 ---
 
 ### **Principal Software Engineer / Platform Architect**  
-**Personal Engineering Projects** — Austin, TX  
-_Jan 2025 – Present_
+# Personal Engineering Projects — Austin, TX
+**Jan 2025 – Present**
 
-- Architected and operated **always-on software platforms** requiring continuous monitoring, fault handling, and recovery.
-- Designed modular backend systems using **Python (Flask)** with structured logging, health checks, and secure authentication.
-- **LLM-based AI Agent Infrastructure Deployment**
-- Built and managed a cloud-based AI agent environment using AWS EC2 (Ubuntu).
-- Deployed Flowise (low-code AI orchestration tool, LangChain) to design and manage complex LLM chatflows.
-- Integrated Google Gemini API to create a responsive AI chatbot, optimizing for cost-effectiveness and performance.
-- Configured custom Node.js middleware to bridge user requests and the AI engine, ensuring seamless API communication.
-- Built **containerized Linux services** using Docker and Nginx pipelines.
-- Developed **data processing and analytics pipelines** for scientific and domain-specific datasets(ai-Genex, OdorMind).
-- Implemented **role-based access control** and operational dashboards for real-time system visibility.
+This repository highlights personal engineering projects focusing on cloud-based AI infrastructure, automated trading systems, and scientific data platforms.
 
-**Tech Stack**:  
-`Python` `Flask` `PostgreSQL` `Docker` `Linux` `AWS` `LLM` `LangChain` `Node.js`
+---
+
+### Cloud Platforms & Backend Architecture
+- Architected and operated **always-on cloud platforms** with monitoring, fault handling, and automated recovery.
+- Designed **modular backend systems** using Python (Flask) with structured logging, health checks, and secure authentication.
+- Implemented **role-based access control** and operational dashboards for real-time system visibility and multi-role management.
+
+### LLM AI Agent Infrastructure
+- Built and managed a cloud-based AI agent on **AWS EC2 (Ubuntu)**.
+- Deployed **Flowise** (low-code AI orchestration, LangChain) to design and manage complex memory-enabled chatflows.
+- Integrated **Google Gemini API** to create a responsive AI chatbot with cost-effective performance.
+- Configured **custom Node.js middleware** to bridge user requests and the AI engine for seamless API communication.  
+🔗 http://github.com/louisbyun/aiAgent/blob/main/README.md
+
+### Scientific & Domain-specific Data Platforms
+- Developed **containerized Linux services** using Docker and Nginx.
+- Built **data processing and analytics pipelines** for scientific datasets:  
+  - **ai-Gene X™** — DNA-based trait analysis platform  
+    🔗 http://github.com/louisbyun/aiGenex/blob/main/README.md  
+  - **OdorMind™** — Odor data collection and visualization platform
+
+### Automated Trading Platform
+- Designed and deployed **ai Swing™ Crypto**, an automated trading platform integrating **Coinbase and Webull APIs**, utilizing adaptive RSI strategies and systematic risk controls.  
+🔗 http://github.com/louisbyun/aiSwing/tree/main
+
+---
+
+## Tech Stack
+
+`Python` `Flask` `PostgreSQL` `Docker` `Linux` `AWS EC2` `LLM` `LangChain` `Node.js` `Nginx`
+
 
 ---
 
