@@ -55,10 +55,10 @@ _Sep 2024 – Present_
 ---
 
 ### **Principal Software Engineer / Platform Architect**  
-**Personal Engineering Projects — Austin, TX
+**Personal Engineering Projects — Austin, TX**
 Jan 2025 – Present
-This repository highlights personal engineering projects focusing on cloud-based AI infrastructure, automated trading systems, and scientific data platforms.
-Cloud Platforms & Backend Architecture
+This repository highlights personal engineering projects focusing on cloud-based AI infrastructure, automated trading systems, and scientific data platforms.<br>
+Cloud Platforms & Backend Architecture<br>
 - Architected and operated **always-on cloud platforms** with monitoring, fault handling, and automated recovery.
 - Designed **modular backend systems** using Python (Flask) with structured logging, health checks, and secure authentication.
 - Implemented **role-based access control** and operational dashboards for real-time system visibility and multi-role management.
@@ -75,7 +75,7 @@ Scientific & Domain-specific Data Platforms
     🔗 http://github.com/louisbyun/aiGenex/blob/main/README.md  
   - **OdorMind™** — Odor data collection and visualization platform
 Automated Trading Platform
-- Designed and deployed **ai Swing™ Crypto**, an automated trading platform integrating **Coinbase and Webull APIs**, utilizing adaptive RSI strategies and systematic risk controls.  
+- Designed and deployed **ai Swing™ Crypto**, an automated trading platform integrating **Coinbase and Alpaca APIs**, utilizing adaptive RSI strategies and systematic risk controls.  
 🔗 http://github.com/louisbyun/aiSwing/tree/main
 
 **Tech Stack:
