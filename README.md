@@ -58,11 +58,11 @@ _Sep 2024 – Present_
 **Personal Engineering Projects — Austin, TX
 Jan 2025 – Present
 This repository highlights personal engineering projects focusing on cloud-based AI infrastructure, automated trading systems, and scientific data platforms.
-####Cloud Platforms & Backend Architecture
+Cloud Platforms & Backend Architecture
 - Architected and operated **always-on cloud platforms** with monitoring, fault handling, and automated recovery.
 - Designed **modular backend systems** using Python (Flask) with structured logging, health checks, and secure authentication.
 - Implemented **role-based access control** and operational dashboards for real-time system visibility and multi-role management.
-####LLM AI Agent Infrastructure
+LLM AI Agent Infrastructure
 - Built and managed a cloud-based AI agent on **AWS EC2 (Ubuntu)**.
 - Deployed **Flowise** (low-code AI orchestration, LangChain) to design and manage complex memory-enabled chatflows.
 - Integrated **Google Gemini API** to create a responsive AI chatbot with cost-effective performance.
