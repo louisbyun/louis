@@ -9,7 +9,7 @@ louispien@gmail.com
 [LinkedIn](https://www.linkedin.com/in/louis-byun)  
 [GitHub](https://github.com/louisbyun)
 ## 📄 Resume
-- 👉 [Download Resume (PDF)](./Louis Byun - Full Stack.pdf.pdf)
+- 👉 [Download Resume (PDF)](./Louis%20Byun%20-%20Full%20Stack.pdf.pdf)
 
 ---
 
