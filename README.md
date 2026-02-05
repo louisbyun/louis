@@ -58,23 +58,23 @@ _Sep 2024 – Present_
 **Personal Engineering Projects — Austin, TX
 Jan 2025 – Present
 This repository highlights personal engineering projects focusing on cloud-based AI infrastructure, automated trading systems, and scientific data platforms.
-**Cloud Platforms & Backend Architecture**
+####Cloud Platforms & Backend Architecture
 - Architected and operated **always-on cloud platforms** with monitoring, fault handling, and automated recovery.
 - Designed **modular backend systems** using Python (Flask) with structured logging, health checks, and secure authentication.
 - Implemented **role-based access control** and operational dashboards for real-time system visibility and multi-role management.
-**LLM AI Agent Infrastructure**
+####LLM AI Agent Infrastructure
 - Built and managed a cloud-based AI agent on **AWS EC2 (Ubuntu)**.
 - Deployed **Flowise** (low-code AI orchestration, LangChain) to design and manage complex memory-enabled chatflows.
 - Integrated **Google Gemini API** to create a responsive AI chatbot with cost-effective performance.
 - Configured **custom Node.js middleware** to bridge user requests and the AI engine for seamless API communication.  
 🔗 http://github.com/louisbyun/aiAgent/blob/main/README.md
-**Scientific & Domain-specific Data Platforms**
+Scientific & Domain-specific Data Platforms
 - Developed **containerized Linux services** using Docker and Nginx.
 - Built **data processing and analytics pipelines** for scientific datasets:  
   - **ai-Gene X™** — DNA-based trait analysis platform  
     🔗 http://github.com/louisbyun/aiGenex/blob/main/README.md  
   - **OdorMind™** — Odor data collection and visualization platform
-**Automated Trading Platform**
+Automated Trading Platform
 - Designed and deployed **ai Swing™ Crypto**, an automated trading platform integrating **Coinbase and Webull APIs**, utilizing adaptive RSI strategies and systematic risk controls.  
 🔗 http://github.com/louisbyun/aiSwing/tree/main
 
