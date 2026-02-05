@@ -57,8 +57,8 @@ _Sep 2024 – Present_
 ### **Principal Software Engineer / Platform Architect**  
 **Personal Engineering Projects — Austin, TX**
 Jan 2025 – Present
-This repository highlights personal engineering projects focusing on cloud-based AI infrastructure, automated trading systems, and scientific data platforms.<br>
-Cloud Platforms & Backend Architecture<br>
+This repository highlights personal engineering projects focusing on cloud-based AI infrastructure, automated trading systems, and scientific data platforms.
+## Cloud Platforms & Backend Architecture
 - Architected and operated **always-on cloud platforms** with monitoring, fault handling, and automated recovery.
 - Designed **modular backend systems** using Python (Flask) with structured logging, health checks, and secure authentication.
 - Implemented **role-based access control** and operational dashboards for real-time system visibility and multi-role management.
