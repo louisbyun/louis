@@ -58,17 +58,21 @@ _Sep 2024 – Present_
 **Personal Engineering Projects** — Austin, TX 
 _Jan 2025 – Present_
 Cloud-native AI infrastructure, automated trading systems, and scientific data platforms.
+
 **LLM AI Agent & RAG Infrastructure**  
 Scalable AWS EC2 (Ubuntu) environment managed with PM2.  
 Implemented multi-modal RAG workflows using Flowise and LangChain, vector databases for semantic search, and custom Node.js middleware orchestrating Gemini 1.5 Flash with memory-enabled chatflows.  
 🔗 https://github.com/louisbyun/aiAgent
+
 **Automated Trading Platform**  
 Developed **ai Swing™ Crypto**, an automated trading system integrated with Coinbase and Alpaca APIs.  
 Implemented adaptive RSI-based strategies and systematic risk controls optimized for high-frequency execution.  
 🔗 https://github.com/louisbyun/aiSwing
+
 **Scientific Data Platforms**  
 Built **ai-Gene X™**, a containerized DNA-based trait analysis platform, and **OdorMind™**, a Docker/Nginx-based scientific odor data collection and visualization system.  
 🔗 https://github.com/louisbyun/aiGenex
+
 **Core Backend & Cloud Architecture**  
 Designed modular Flask backends with RBAC, structured logging, health checks, and monitoring, enabling fault-tolerant systems with automated recovery and real-time operational visibility.
 
