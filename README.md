@@ -87,7 +87,7 @@ _Sep 2012 – Feb 2024_
 - Integrated **robotic control systems**, backend services, and messaging infrastructure (MQTT).
 - Managed cloud platforms and backend architectures supporting enterprise and public-sector customers.
 - Developed and deployed a Node.js/TypeScript backend for an Android/iOS mobile app, delivering RESTful APIs.
-- Led cross-functional teams of **10–20 engineers**, delivering **40+ production systems**.
+- Led cross-functional teams of **5–10 engineers**, delivering **40+ production systems**.
 
 ---
 
