@@ -57,9 +57,7 @@ _Sep 2024 – Present_
 ### **Principal Software Engineer / Platform Architect**  
 **Personal Engineering Projects** — Austin, TX 
 _Jan 2025 – Present_
-Austin, TX · Jan 2025 – Present  
 Cloud-native AI infrastructure, automated trading systems, and scientific data platforms.
-
 ### LLM AI Agent & RAG Infrastructure
 Built a scalable AWS EC2 (Ubuntu) environment using PM2, implementing multi-modal RAG workflows with Flowise and LangChain, vector databases for semantic search, and custom Node.js middleware orchestrating Gemini 1.5 Flash with memory-enabled chatflows.  
 🔗 https://github.com/louisbyun/aiAgent
