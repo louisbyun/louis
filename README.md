@@ -7,6 +7,9 @@
 📧 louispien@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/louis-byun  
 💻 GitHub: https://github.com/louisbyun  
+📄 **Resume (PDF Download)**  
+👉 [Download Kyuesup (Louis) Byun - Fullstack Python Resume](./Kyuesup-Louis-Byun-Fullstack-Python.pdf)
+
 
 ---
 
