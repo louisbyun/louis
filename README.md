@@ -23,46 +23,23 @@ Experienced in delivering AI-powered customer-facing features including optimiza
 
 ## 🛠 Core Technologies
 
-### Backend
-- Python (FastAPI, Flask)
-- Node.js
-- REST APIs
-- Async Programming
+**Backend**  
+Python (FastAPI, Flask), Node.js, RESTful APIs, Async Programming  
 
-### Frontend
-- Vue.js
-- JavaScript
-- HTML/CSS
+**Frontend**  
+Vue.js, JavaScript (ES6+), HTML5, CSS3  
 
-### Cloud & DevOps
-- AWS EC2
-- Vultr
-- Vercel
-- Docker
-- Nginx
-- CI/CD Automation
+**Cloud & DevOps**  
+AWS EC2, Vultr, Vercel, Docker, Nginx, CI/CD Automation  
 
-### Databases
-- PostgreSQL
-- MySQL
-- MariaDB
-- Redis
-- Supabase (SQL-backed persistence & auth)
+**Databases**  
+PostgreSQL, MySQL, MariaDB, Redis  
 
-### AI Integration
-- Gemini API
-- Groq
-- Hugging Face Inference
-- LangFlow
-- RAG workflows
-- Ollama embeddings
-- AI-driven optimization engines
+**AI Integration**  
+Gemini API, RAG Workflows, AI Agent Orchestration, AI-Driven Optimization Engines  
 
-### Operations
-- Logging & Monitoring
-- Production Support
-- RBAC
-- SLA Reliability
+**Operations & Reliability**  
+Logging & Monitoring, Production Support, RBAC, SLA-Oriented System Design  
 
 ---
 
