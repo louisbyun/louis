@@ -1,155 +1,175 @@
-# Louis Byun
+# Kyuesup (Louis) Byun
 
-**Senior Software Systems Engineer**  
-_Embedded Systems • Platform Software • Automation_
+**Senior Fullstack Python Engineer | Vue.js • Async APIs • AI-Powered SaaS Platforms**
 
-Austin, TX, USA  
-[LinkedIn](https://www.linkedin.com/in/louis-byun)  
-[GitHub](https://github.com/louisbyun)
-## 📄 Resume
-- 👉 [Download Resume (PDF)](./Louis%20Byun%20-%20Full%20Stack.pdf)
-
----
-
-## 👋 About Me
-
-Senior Software Systems Engineer with **10+ years of experience** designing, building, and operating **mission-critical software systems** across:
-
-- Embedded platforms  
-- Linux-based services  
-- Cloud infrastructure  
-
-I specialize in **system architecture**, **monitoring & control software**, **reliability engineering**, and **HW/SW integration**.  
-My career spans wireless systems, automation platforms, and large-scale production environments, with a strong focus on translating real-world operational constraints into **robust, scalable software solutions**.
+📍 Austin, TX, USA  
+📞 +1-512-293-8721  
+📧 louispien@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/louis-byun  
+💻 GitHub: https://github.com/louisbyun  
 
 ---
 
-## 🧠 Core Technical Skills
+## 🧭 Professional Summary
 
-- **Systems Engineering**: Architecture, reliability, availability, failure handling
-- **Embedded Software**: BLE, Wi-Fi, GPS, RTOS, firmware, HW bring-up
-- **Backend & Platform**: Python, Flask, Vue.js, Node.js, REST APIs, PostgreSQL, Flowise, LLM, LangChain
-- **Linux & Cloud**: Docker, AWS, Nginx, CI/CD, server administration
-- **Automation & Observability**: RPA, monitoring, diagnostics, MTTR reduction
-- **Networking**: Protocol behavior, routing concepts, distributed systems
-- **AI Agent**:  LangChain/Flowise orchestrated Gemini/OpenAI, multi‑source data, and modular memory/loaders/parsers for real‑time, context‑aware automation.
+Senior Fullstack Engineer with extensive experience designing, building, and operating production-grade SaaS platforms using Python (FastAPI, Flask) and Vue.js. Strong background in async API architecture, RESTful service design, and cloud-native deployments on AWS.
+
+Experienced in delivering AI-powered customer-facing features including optimization engines, automated content generation, and intelligent workflow orchestration. Proven ability to own systems end-to-end — from architecture and implementation to deployment, monitoring, and production support.
 
 ---
 
-## 💼 Professional Experience
+## 🛠 Core Technologies
 
-### **Senior Software Engineer**  
+### Backend
+- Python (FastAPI, Flask)
+- Node.js
+- REST APIs
+- Async Programming
+
+### Frontend
+- Vue.js
+- JavaScript
+- HTML/CSS
+
+### Cloud & DevOps
+- AWS EC2
+- Vultr
+- Vercel
+- Docker
+- Nginx
+- CI/CD Automation
+
+### Databases
+- PostgreSQL
+- MySQL
+- MariaDB
+- Redis
+- Supabase (SQL-backed persistence & auth)
+
+### AI Integration
+- Gemini API
+- Groq
+- Hugging Face Inference
+- LangFlow
+- RAG workflows
+- Ollama embeddings
+- AI-driven optimization engines
+
+### Operations
+- Logging & Monitoring
+- Production Support
+- RBAC
+- SLA Reliability
+
+---
+
+# 💼 Professional Experience
+
+## Senior Software Engineer  
 **Zinnotech (Samsung Austin Semiconductor)** — Austin, TX  
-_Sep 2024 – Present_
+*Sep 2024 – Present*
 
-- Designed and deployed **software automation and monitoring systems** supporting large-scale semiconductor manufacturing operations.
-- Served as **technical owner** for software workflows, ensuring operational stability, availability, and SLA compliance.
-- Built **real-time diagnostics and visualization dashboards** using Splunk SPL to analyze logs, events, and system behavior.
-- Performed **Windows system-level analysis and reverse engineering** (Win32 APIs, message handling) to stabilize critical internal tools.
-- Developed **PowerShell and Python automation scripts** integrated with backend services for centralized execution and control.
-- Supported secure enterprise environments including VDI operations, access control, and incident response.
+- Designed and deployed automation and monitoring systems for semiconductor manufacturing operations.
+- Built real-time diagnostics dashboards using Splunk SPL for log and event analysis.
+- Developed Python and PowerShell automation integrated with backend services.
+- Stabilized enterprise-critical internal tools through Windows system-level debugging (Win32 APIs).
+- Ensured SLA compliance and operational reliability across secure VDI environments.
 
-**Tech Stack**:  
-`Python` `PowerShell` `Win32 API` `Splunk` `Automation Anywhere` `Windows` `Linux` `Flask`
+**Tech:** Python, PowerShell, Flask, Splunk, Windows/Linux
 
 ---
 
-### **Principal Software Engineer / Platform Architect**  
-**Personal Engineering Projects** — Austin, TX 
-_Jan 2025 – Present_
-Cloud-native AI infrastructure, automated trading systems, and scientific data platforms.
+# 🚀 Software Engineer / Platform Architect  
+Austin, TX | *Jan 2025 – Present*
 
-**LLM AI Agent & RAG Infrastructure**  
-Scalable AWS EC2 (Ubuntu) environment managed with PM2.  
-Implemented multi-modal RAG workflows using Flowise and LangChain, vector databases for semantic search, and custom Node.js middleware orchestrating Gemini 3.0 Flash with memory-enabled chatflows.  
-🔗 https://github.com/louisbyun/aiAgent
+---
 
-**Automated Trading Platform**  
-Developed **ai Swing™ Crypto**, an automated trading system integrated with Coinbase and Alpaca APIs.  
-Implemented adaptive RSI-based strategies and systematic risk controls optimized for high-frequency execution.  
+## 🔹 Mortgage AI Agent (Production AI Platform)
+
+🌐 https://mortgage.aiswingx.com/
+
+AI-powered mortgage workflow and knowledge assistant for real estate professionals.
+
+- Designed and deployed an AI mortgage advisory agent using LangFlow with multi-model orchestration (Gemini, Groq, Hugging Face Inference).
+- Implemented Ollama embeddings for local RAG and Supabase for SQL-backed persistence and authentication.
+- Designed and managed relational schemas, constraints, and analytics tables in Supabase.
+- Built structured prompt orchestration, session/context management, and tool-calling flows (web fetch, calculator) with validation and fallback handling.
+- Architected scalable backend services using Python and Node.js.
+- Deployed production infrastructure with cloud inference options and persistent memory.
+- Delivered real-time financial Q&A and workflow automation for end users.
+
+---
+
+## 🔹 ai Swing™ Crypto – Automated Trading SaaS
+
 🔗 https://github.com/louisbyun/aiSwing
 
-**Scientific Data Platforms**  
-Built **ai-Gene X™**, a containerized DNA-based trait analysis platform, and **OdorMind™**, a Docker/Nginx-based scientific odor data collection and visualization system.  
+- Architected full-stack trading platform integrating Coinbase and Webull APIs.
+- Designed modular REST API backend using Python (FastAPI/Flask).
+- Migrated multiple user-facing pages to Vue.js to modernize frontend architecture.
+- Implemented RBAC and subscription-based access tiers.
+- Built AI-driven strategy optimization and analytics features.
+- Deployed containerized services using Docker + Nginx on Linux cloud servers.
+
+---
+
+## 🔹 aiAgent – LLM-Based Agent Infrastructure
+
+🔗 https://github.com/louisbyun/aiAgent
+
+- Engineered modular AI agent framework supporting RAG workflows and tool-calling.
+- Integrated external APIs and database queries for contextual real-time responses.
+- Built scalable orchestration layer for autonomous multi-step AI workflows.
+
+---
+
+## 🔹 ai-Gene X™ – DNA Trait Analysis Platform
+
 🔗 https://github.com/louisbyun/aiGenex
 
-**Tech Stack:
-`Python` `Flask` `PostgreSQL` `Docker` `Linux` `AWS EC2` `LLM` `LangChain` `Node.js` `Nginx`
-
+- Designed full-stack web application for genetic trait analysis.
+- Built backend APIs and relational database schema for structured biological datasets.
+- Implemented cloud deployment and CI/CD automation.
 
 ---
 
-### **Principal Software Engineer / System Administrator**  
+# 🏢 Previous Experience
+
+## Senior Software Engineer / System Administrator  
 **Orange Digit Inc.** — Seoul, South Korea  
-_Sep 2012 – Feb 2024_
+*Sep 2012 – Feb 2024*
 
-- Designed and validated **AI-based machine vision systems** for manufacturing partners using Python, Docker, and PyTorch.
-- Integrated **robotic control systems**, backend services, and messaging infrastructure (MQTT).
-- Managed cloud platforms and backend architectures supporting enterprise and public-sector customers.
-- Developed and deployed a Node.js/TypeScript backend for an Android/iOS mobile app, delivering RESTful APIs.
-- Led cross-functional teams of **5–10 engineers**, delivering **40+ production systems**.
-
----
-
-### **Technical Field Application Engineer**  
-**ST-Ericsson** — Seoul, South Korea  
-_Dec 2007 – Mar 2012_
-
-- Supported **mass production and system validation** of wireless platforms (Wi-Fi, Bluetooth, GPS, USB).
-- Collaborated with HW and RTOS teams on system requirements, porting, and debugging.
-- Provided customer-facing technical leadership for platform integration and issue resolution.
-- Contributed to a **3G platform generating approximately $41M in revenue**.
+- Designed and deployed 40+ production systems including LMS, CMS, and manufacturing platforms.
+- Built RESTful services using Python (Flask) in Dockerized Linux environments.
+- Managed relational databases and cloud infrastructure.
+- Led cross-functional teams (5–10 engineers).
+- Owned production monitoring, deployments, backups, and incident response.
 
 ---
 
-### **Senior Embedded Software Engineer**  
-**LG Electronics** — Seoul, South Korea  
-_Mar 2004 – Jul 2007_
+## Earlier Career Highlights
 
-- Developed **Bluetooth firmware** and production test automation for mobile devices.
-- Performed advanced HW/SW debugging using **JTAG, protocol analyzers, and lab equipment**.
-- Led **bootloader and BSP porting**, hardware initialization, and power management firmware development.
-- Contributed to the successful launch of **12 mobile device models** in the European market.
+- Technical Field Application Engineer — ST-Ericsson  
+- Senior Embedded Software Engineer — LG Electronics  
+- Quality Assurance Manager — SK  
 
----
-
-### **Quality Assurance Manager (Navigation Systems)**  
-**SK** — Seoul, South Korea  
-_Jan 2002 – Jan 2004_
-
-- Led operational quality analysis for a **GPS-based mobile navigation platform**.
-- Analyzed real-world routing data to identify and correct **systemic path calculation errors** (~100 cases/day).
-- Collaborated with development teams to improve routing accuracy, reliability, and service stability.
-- Established data-driven feedback loops for continuous service improvement.
+Strong background in systems engineering, diagnostics, and large-scale production environments.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-**M.S. Computer Engineering** — Ajou University  
-_Distributed Systems, Mobile Computing, Embedded Systems_
-
-**B.S. Computer Science** — Ajou University
+**M.S. in Computer Engineering** — Ajou University  
+**B.S. in Computer Science** — Ajou University  
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-- Automation Anywhere **Master RPA Certification**
-- Automation Anywhere **Advanced Automation Certification**
-- Automation Anywhere **Business Analyst (Automation 360)**
-- **Splunk Search Expert 101**
-- **AWS DevOps Specialization**
-- **System Administration & IT Infrastructure Services**
-- **Six Sigma Green Belt**
+- DevOps on AWS Specialization — Amazon Web Services  
+- Automation Anywhere Master RPA Professional  
+- Splunk Search Expert 101  
+- SQL for Data Science — University of California, Davis  
+- Google IT System Administration  
 
 ---
-
-## 📚 Publications
-
-- Bluetooth Low Energy Sensor Networks  
-- SLIMbus™ for Smart Devices  
-
----
-
-> _I build systems that stay up, recover gracefully, and scale with reality._
