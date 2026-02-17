@@ -1,6 +1,6 @@
 # Kyuesup (Louis) Byun
 
-**Senior Fullstack Engineer | Vue.js • Async APIs • AI-Powered SaaS Platforms**
+**Senior Fullstack Engineer | Flask • Vue.js • Async APIs • AI-Powered SaaS Platforms**
 
 📍 Austin, TX, USA  
 📞 +1-512-293-8721  
